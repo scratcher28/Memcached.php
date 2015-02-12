@@ -618,7 +618,7 @@ class Client
      * @access public
      * @const
      */
-    const DEFAULT_TIMEOUT = null;
+    const DEFAULT_TIMEOUT = 60;
 
     /**
      * The separator for building commandline for Memcached instance.
